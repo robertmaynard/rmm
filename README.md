@@ -103,6 +103,7 @@ GPU Support:
 * RMM is tested and supported only on Volta architecture and newer (Compute Capability 7.0+).
 
 Python requirements:
+* Python 3.12+
 * `rapids-build-backend` (available from PyPI or the `rapidsai` conda channel)
 * `scikit-build-core`
 * `cuda-python`
